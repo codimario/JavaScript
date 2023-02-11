@@ -9,7 +9,12 @@ function Hero (name) {
 /*
 Grasshopper - Terminal Game #1
 
-You have chosen to translate this kata. For your convenience we have provided the existing test cases used for the language that you have already completed, as well as all of the other related fields.
+In this first kata in the series, you need to define a Hero prototype to be used in a terminal game. The hero should have the following attributes:
 
-View the help tab for more information on how kata translations work.
+attribute	value
+name	user argument or 'Hero'
+position	'00'
+health	100
+damage	5
+experience	0
 */
