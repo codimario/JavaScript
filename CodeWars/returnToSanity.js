@@ -8,7 +8,5 @@ function mystery() {
 /*
 Return to Sanity
 
-You have chosen to translate this kata. For your convenience we have provided the existing test cases used for the language that you have already completed, as well as all of the other related fields.
-
-View the help tab for more information on how kata translations work.
+This function should return an object, but it's not doing what's intended. What's wrong?
 */

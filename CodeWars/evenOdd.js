@@ -5,7 +5,5 @@ function evenOrOdd(number) {
 /*
 "Even or Odd" 
 
-You have chosen to translate this kata. For your convenience we have provided the existing test cases used for the language that you have already completed, as well as all of the other related fields.
-
-View the help tab for more information on how kata translations work.
+Create a function that takes an integer as an argument and returns "Even" for even numbers or "Odd" for odd numbers.
 */
