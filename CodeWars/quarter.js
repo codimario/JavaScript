@@ -8,7 +8,6 @@ const quarterOf = (month) => {
   } else if (month <= 12) {
     return 4
   }
-  
 }
 
 /*
